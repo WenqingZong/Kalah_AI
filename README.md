@@ -47,7 +47,7 @@ Our improvement follows these research papers:
 
     where `<FirstAgent>` and `<SecondAgent>` can be (and must be) replaced by a jar file in `Test_Agents` folder.
 
-    * If you are lazy and you are using `MacOS` or `Linux`, simply do:
+    * If you are lazy and you are using MacOS or Linux, simply do:
 
         ```shell
         ./run
