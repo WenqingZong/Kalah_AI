@@ -35,15 +35,15 @@ Our improvement follows these research papers:
 
 3. Terminate it, we merelly want IntelliJ to build our code.
 
-4. In `Test_Agents` folder, run `./compile.sh` for MacOS and Linux, or `.\compile.bat` for Windows.
+4. In `Test_Agent` folder, run `./compile.sh` for MacOS and Linux, or `.\compile.bat` for Windows.
 
-5. * If you want to see two agents playing agaist each other, in `Test_Agents` folder, do:
+5. * If you want to see two agents playing agaist each other, in `Test_Agent` folder, do:
 
     ```shell
     java -jar ManKalah.jar "java -jar <FirstAgent>" "java -jar <SecondAgent>"
     ```
 
-    where `<FirstAgent>` and `<SecondAgent>` can be (and must be) replaced by any jar file in `Test_Agents` folder.
+    where `<FirstAgent>` and `<SecondAgent>` can be (and must be) replaced by a jar file in `Test_Agent` folder.
 
     * If you are lazy and you are using `MacOS` or `Linux`, simply do:
 
@@ -59,7 +59,7 @@ Our improvement follows these research papers:
         nc localhost 12345
         ```
    
-        and then in `Test_Agents` folder, do:
+        and then in `Test_Agent` folder, do:
    
         ```shell
         java -jar ManKalah.jar "java -jar <Agent>" "nc localhost 12345"
