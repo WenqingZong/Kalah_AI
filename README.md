@@ -1,5 +1,7 @@
 # Kalah AI
-## An MCTS AI we created for a university course. It plays the famous game, Kalah.
+An MCTS AI we created for an university course. It plays the famous game, Kalah.
+
+## Authors
 
 This project is developed by Feifan Chen(陈非凡), Xiaotan Zhu(朱笑谈), Yirong Yu(俞奕戎), and Wenqing Zong(宗文卿).
 
