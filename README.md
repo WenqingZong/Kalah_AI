@@ -1,5 +1,5 @@
 # Kalah AI
-An MCTS AI we created for an university course. It plays the famous game, Kalah.
+A MCTS AI we created for an university course. It plays the famous game, Kalah.
 
 ## Authors
 
